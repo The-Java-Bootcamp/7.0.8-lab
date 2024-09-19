@@ -40,7 +40,7 @@ You are provided with the following `CalculatorDemo` class:
 4. In the `main` method:
     - Call each of the overloaded `add` methods with appropriate arguments and print the results.
     - Call each of the overloaded `multiply` methods with appropriate arguments and print the results.
-    - all each of the overloaded `printInfo` methods with appropriate arguments.
+    - Call each of the overloaded `printInfo` methods with appropriate arguments.
 
 **Example Output**
 
